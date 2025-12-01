@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Don’t Blame Me",
+  "base_artist": "Taylor Swift",
+  "createdAt": "2025-12-01T03:49:28.951227Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Blame Me",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/01_Don't_Blame_Me_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Blame Me (feat. Shenseea)",
+      "artist": "Santigold feat. Shenseea",
+      "has_synced": true,
+      "path": "select/02_Don't_Blame_Me_(feat._Shenseea)_Santigold_feat._Shenseea.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Blame Me",
+      "artist": "Santigold Shenseea",
+      "has_synced": true,
+      "path": "select/03_Don't_Blame_Me_Santigold_Shenseea.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Blame Me",
+      "artist": "Flat Duo Jets",
+      "has_synced": false,
+      "path": "select/04_Don't_Blame_Me_Flat_Duo_Jets.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Blame Me (Bonus Track)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/05_Don't_Blame_Me_(Bonus_Track)_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Blame Me (Bonus)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/06_Don't_Blame_Me_(Bonus)_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Blame Me (feat. Shenseea)",
+      "artist": "Santigold",
+      "has_synced": true,
+      "path": "select/07_Don't_Blame_Me_(feat._Shenseea)_Santigold.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don’t Blame Me",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/08_Don’t_Blame_Me_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Blame Me",
+      "artist": "Joe Lovano",
+      "has_synced": false,
+      "path": "select/09_Don't_Blame_Me_Joe_Lovano.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Blame Me - Live [Atlanta]",
+      "artist": "Thelonious Monk",
+      "has_synced": false,
+      "path": "select/10_Don't_Blame_Me_-_Live_[Atlanta]_Thelonious_Monk.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Blame Me (Live Atlanta)",
+      "artist": "Thelonious Monk",
+      "has_synced": false,
+      "path": "select/11_Don't_Blame_Me_(Live_Atlanta)_Thelonious_Monk.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Blame Me",
+      "artist": "UB40",
+      "has_synced": true,
+      "path": "select/12_Don't_Blame_Me_UB40.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Blame Me",
+      "artist": "Slade",
+      "has_synced": false,
+      "path": "select/13_Don't_Blame_Me_Slade.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Blame Me",
+      "artist": "Ozzy Osbourne",
+      "has_synced": false,
+      "path": "select/14_Don't_Blame_Me_Ozzy_Osbourne.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Blame Me",
+      "artist": "Patrice Rushen",
+      "has_synced": false,
+      "path": "select/15_Don't_Blame_Me_Patrice_Rushen.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Blame Me",
+      "artist": "The Platters",
+      "has_synced": false,
+      "path": "select/16_Don't_Blame_Me_The_Platters.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Blame Me",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Blame_Me_Taylor_Swift.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Don't Blame Me",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_02_Don't_Blame_Me_Taylor_Swift.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Don't Blame Me",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_03_Don't_Blame_Me_Taylor_Swift.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Don't Blame Me",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_04_Don't_Blame_Me_Taylor_Swift.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Don't Blame Me",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_05_Don't_Blame_Me_Taylor_Swift.txt"
+    }
+  ]
+}
